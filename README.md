@@ -1,2 +1,1 @@
-# LOVE
-love untuk pacarkuu tercintaa
+LOVE
